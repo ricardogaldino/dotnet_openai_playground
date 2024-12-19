@@ -1,2 +1,1 @@
-# dotnet_openai_playground
-.NET OpenAI Playground
+# .NET OpenAI Playground
